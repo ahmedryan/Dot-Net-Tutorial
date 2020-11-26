@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/9VmaqXA0ikHbqE3tOkQNseV4uUimnYl1cXMM7zQj/a+tfuGJ1tLzE0fhLe/2hdd0tED+NsA3LMzKMQhpZ+VQ==",
+  "dgSpecHash": "RIVyFmRhJHH2c7zsAx7B/RvBoVbypPoDxZ/KA6n/iC9hwYsDUikYpEjRdm2V36IyT7a4jFtjpU1FgHFmJR2b2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\Desktop\\Programming\\ASP.NET Core\\ASP.NET Core Tutorial\\ASP.NET Core Tutorial.csproj",
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\Programming\\ASP.NET Core\\ASP.NET Core Tutorial\\ASP.NET Core Tutorial 1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

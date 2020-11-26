@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using ASP.NET_Core_Tutorial.Models;
+using ASP.NET_Core_Tutorial_1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace ASP.NET_Core_Tutorial.Controllers
+namespace ASP.NET_Core_Tutorial_1.Controllers
 {
     public class HomeController : Controller
     {

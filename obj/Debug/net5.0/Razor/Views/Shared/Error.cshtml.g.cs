@@ -14,20 +14,20 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 1 "C:\Users\Hp\Desktop\Programming\ASP.NET Core\ASP.NET Core Tutorial\Views\_ViewImports.cshtml"
-using ASP.NET_Core_Tutorial;
+using ASP.NET_Core_Tutorial_1;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 2 "C:\Users\Hp\Desktop\Programming\ASP.NET Core\ASP.NET Core Tutorial\Views\_ViewImports.cshtml"
-using ASP.NET_Core_Tutorial.Models;
+using ASP.NET_Core_Tutorial_1.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6a5625cc8fb4476f348b0fe9041c550465d8bf9", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e4c7bb54fbf81d774a0cbdac08335b94c6fc23b0", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"94ecf3678e3438f4103b21401843f656fd1bc915", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998

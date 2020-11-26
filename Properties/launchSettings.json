@@ -16,7 +16,7 @@
         "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation"
       }
     },
-    "ASP.NET_Core_Tutorial": {
+    "ASP.NET_Core_Tutorial_1": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

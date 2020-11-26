@@ -7191,9 +7191,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming\\ASP.NET Core\\ASP.NET Core Tutorial\\ASP.NET Core Tutorial.csproj",
-      "projectName": "ASP.NET Core Tutorial",
-      "projectPath": "C:\\Users\\Hp\\Desktop\\Programming\\ASP.NET Core\\ASP.NET Core Tutorial\\ASP.NET Core Tutorial.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming\\ASP.NET Core\\ASP.NET Core Tutorial\\ASP.NET Core Tutorial 1.csproj",
+      "projectName": "ASP.NET Core Tutorial 1",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\Programming\\ASP.NET Core\\ASP.NET Core Tutorial\\ASP.NET Core Tutorial 1.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hp\\Desktop\\Programming\\ASP.NET Core\\ASP.NET Core Tutorial\\obj\\",
       "projectStyle": "PackageReference",

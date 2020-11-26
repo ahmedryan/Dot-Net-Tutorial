@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace ASP.NET_Core_Tutorial
+namespace ASP.NET_Core_Tutorial_1
 {
     public class Program
     {

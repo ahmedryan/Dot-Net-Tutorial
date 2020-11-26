@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace ASP.NET_Core_Tutorial.Migrations
+namespace ASP.NET_Core_Tutorial_1.Migrations
 {
     public partial class addCategoryToDatabase : Migration
     {
