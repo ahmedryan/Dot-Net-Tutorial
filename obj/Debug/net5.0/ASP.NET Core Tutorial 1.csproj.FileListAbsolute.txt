@@ -431,3 +431,5 @@ C:\Users\Hp\Desktop\Programming\ASP.NET Core\ASP.NET Core Tutorial\obj\Debug\net
 C:\Users\Hp\Desktop\Programming\ASP.NET Core\ASP.NET Core Tutorial\obj\Debug\net5.0\ref\ASP.NET Core Tutorial 1.dll
 C:\Users\Hp\Desktop\Programming\ASP.NET Core\ASP.NET Core Tutorial\obj\Debug\net5.0\ASP.NET Core Tutorial 1.pdb
 C:\Users\Hp\Desktop\Programming\ASP.NET Core\ASP.NET Core Tutorial\obj\Debug\net5.0\ASP.NET Core Tutorial 1.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming\ASP.NET Core\ASP.NET Core Tutorial\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Hp\Desktop\Programming\ASP.NET Core\ASP.NET Core Tutorial\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
